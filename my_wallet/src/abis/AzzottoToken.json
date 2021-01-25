@@ -1,0 +1,49 @@
+{
+    "contractName": "AzzottoToken",
+    "abi": [
+      {
+          "constant":false,
+          "inputs": [
+            {
+                "name": "spender",
+                "type": "address"
+            },
+            {
+                "name": "value",
+                "type": "uint256"
+
+            }
+          ],
+          "name": "approve",
+          "outputs": [
+              {
+                  "name": "",
+                  "type": "bool"
+              }
+          ],
+          "payable": false,
+          "stateMutability": "nonpayble",
+          "type": "function",
+          "signature": "0x095ea7b3"
+      },
+      {
+          "constant": true,
+          "inputs": []
+      }
+    ],
+    "bytecode": "",
+    "deployedBytecode": "",
+    "sourcemap": "",
+    "deployedSourceMap": "",
+    "source": "",
+    "sourcePath": "",
+    "ast": {
+        "absolutePath": "/Users/name/my_wallet/src/contracts/AzzottoToken.sol",
+        "exportedymbols": {
+            "AzzottoToken": [
+                26
+            ]
+        }
+
+    }
+}
