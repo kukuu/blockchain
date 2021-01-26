@@ -10,11 +10,17 @@ With Blockchain, users to the network have private keys and the network stores p
 
 ## Keywords
   
-  bit coin
-  cryoto currency
-  solidity
-  ethereum
-  smart
-  contracts
-  security
+   - bit coin
+  
+  - cryoto currency
+  
+  - solidity
+  
+  - ethereum
+  
+  - smart
+  
+  - contracts
+  
+  - security
   
