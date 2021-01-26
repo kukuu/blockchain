@@ -12,7 +12,7 @@ With Blockchain, users to the network have private keys and the network stores p
   
    - bit coin
   
-  - cryoto currency
+  - crypto currency
   
   - solidity
   
