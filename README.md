@@ -16,7 +16,7 @@ With Blockchain, users to the network have private keys and the network stores p
   
   - solidity - It is an object-oriented, high-level language for implementing smart contracts. Solidity was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
   
-  - ethereum
+  - ethereum - It is an open-source, blockchain-based, decentralized software platform used for its own cryptocurrency, ether. It enables SmartContracts and Distributed Applications (ĐApps) to be built and run without any downtime, fraud, control, or interference from a third party
   
   - smart contracts - These are programs which govern the behaviour of accounts within the Ethereum state.
   
