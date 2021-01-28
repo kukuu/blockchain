@@ -24,3 +24,5 @@ With Blockchain, users to the network have private keys and the network stores p
   
   - security
   
+  - Buidler (replacement for Truffle) bills itself as a "task runner for Ethereum smart contract developers". In practice, this means that the tool will help you bootstrap your Solidity project with a template and give you all the scaffolding needed to test out your smart contracts and ultimately deploy onto the Ethereum blockchain.
+  
