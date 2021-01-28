@@ -10,19 +10,20 @@ With Blockchain, users to the network have private keys and the network stores p
 
 ## Keywords
   
-   - bit coin
+   - bit coin - It is the first cryptocurrency, and a decentralized form of digital cash that eliminates the need for traditional intermediaries like banks and governments to make financial transactions. Is basically a computer file which is stored in a 'digital wallet' app on a smartphone or computer.
   
-  - crypto currency
+  - crypto currency - Cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend.
   
-  - solidity
+  - solidity - It is an object-oriented, high-level language for implementing smart contracts. Solidity was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
   
   - ethereum
   
-  - smart
+  - smart contracts - These are programs which govern the behaviour of accounts within the Ethereum state.
   
-  - contracts
-  
-  - security
   
   - Buidler (replacement for Truffle) - Bills itself as a "task runner for Ethereum smart contract developers". In practice, this means that the tool will help you bootstrap your Solidity project with a template and give you all the scaffolding needed to test out your smart contracts and ultimately deploy onto the Ethereum blockchain.
+  
+  - Ethers.js -  A Javascript SDK for interacting with the Ethereum blockchain.  It has all the necessary functions for working with wallets, accounts, and contracts, and it also has some neat utilities such as ABICoder, HDNode, BigNumber, and various formatting utilities for hex strings, ether units, and Etherum addresses.
+  
+  - Ethereum Waffle -  A lightweight test runner for Ethereum smart contracts. Has testing utils built in like Chai matchers for Ethereum addresses, hashes, and BigNumbers, it's Typescript native, and plays well with Ethers.
   
