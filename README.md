@@ -20,10 +20,11 @@ With Blockchain, users to the network have private keys and the network stores p
   
   - smart contracts - These are programs which govern the behaviour of accounts within the Ethereum state.
   
-  
   - Buidler (replacement for Truffle) - Bills itself as a "task runner for Ethereum smart contract developers". In practice, this means that the tool will help you bootstrap your Solidity project with a template and give you all the scaffolding needed to test out your smart contracts and ultimately deploy onto the Ethereum blockchain.
   
   - Ethers.js -  A Javascript SDK for interacting with the Ethereum blockchain.  It has all the necessary functions for working with wallets, accounts, and contracts, and it also has some neat utilities such as ABICoder, HDNode, BigNumber, and various formatting utilities for hex strings, ether units, and Etherum addresses.
   
   - Ethereum Waffle -  A lightweight test runner for Ethereum smart contracts. Has testing utils built in like Chai matchers for Ethereum addresses, hashes, and BigNumbers, it's Typescript native, and plays well with Ethers.
+  
+  - ICO (Initial Coin Offerings -  It is a popular fundraising method used primarily by startups wishing to offer products and services, usually related to the cryptocurrency and blockchain space. The cryptocurrency industry’s equivalent to an initial public offering (IPO). 
   
