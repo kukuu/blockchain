@@ -26,5 +26,17 @@ With Blockchain, users to the network have private keys and the network stores p
   
   - Ethereum Waffle -  A lightweight test runner for Ethereum smart contracts. Has testing utils built in like Chai matchers for Ethereum addresses, hashes, and BigNumbers, it's Typescript native, and plays well with Ethers.
   
-  - ICO (Initial Coin Offerings) -  It is a popular fundraising method used primarily by startups wishing to offer products and services, usually related to the cryptocurrency and blockchain space. The cryptocurrency industry’s equivalent to an initial public offering (IPO). 
+  - ICO (Initial Coin Offerings) -  It is a popular fundraising method used primarily by startups wishing to offer products and services, usually related to the cryptocurrency and blockchain space. The cryptocurrency industry’s equivalent to an initial public offering (IPO).
+  
+  - Node - user or computer within the blockchain architecture (each has an independent copy of the whole blockchain ledger)
+  
+- Transaction - smallest building block of a blockchain system (records, information, etc.) that serves as the purpose of blockchain
+
+- Block - a data structure used for keeping a set of transactions which is distributed to all nodes in the network
+
+- Chain - a sequence of blocks in a specific order
+
+- Miners - specific nodes which perform the block verification process before adding anything to the blockchain structure
+
+- Consensus (consensus protocol) - a set of rules and arrangements to carry out blockchain operations
   
