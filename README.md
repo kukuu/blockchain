@@ -14,6 +14,8 @@ With Blockchain, users to the network have private keys and the network stores p
   
   - crypto currency - Cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend.
   
+  - decentralization - each member of the blockchain structure has access to the whole distributed database. As opposed to the central-based system, consensus algorithm allows for control of the network
+  
   - solidity - It is an object-oriented, high-level language for implementing smart contracts. Solidity was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
   
   - ethereum - It is an open-source, blockchain-based, decentralized software platform used for its own cryptocurrency, ether. It enables SmartContracts and Distributed Applications (ĐApps) to be built and run without any downtime, fraud, control, or interference from a third party
@@ -39,4 +41,12 @@ With Blockchain, users to the network have private keys and the network stores p
 - Miners - specific nodes which perform the block verification process before adding anything to the blockchain structure
 
 - Consensus (consensus protocol) - a set of rules and arrangements to carry out blockchain operations
+
+- immutability - any records made in a blockchain cannot be changed or deleted
+
+ - provenance - refers to the fact that it is possible to track the origin of every transaction inside the blockchain ledger
+
+- anonymity- each blockchain network participant has a generated address, not user identity. This keeps users' anonymity, especially in a public blockchain structure
+
+- transparency - the blockchain system cannot be corrupted. This is very unlikely to happen, as it requires huge computing power to overwrite the blockchain network completely
   
