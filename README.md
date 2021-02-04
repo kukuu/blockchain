@@ -24,7 +24,7 @@ https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-curren
   
   - ethereum - It is an open-source, blockchain-based, decentralized software platform used for its own cryptocurrency, ether. It enables SmartContracts and Distributed Applications (ĐApps) to be built and run without any downtime, fraud, control, or interference from a third party
   
-  - smart contracts - These are programs which govern the behaviour of accounts within the Ethereum state.
+  - smart contracts - These are programs which govern the behaviour of accounts within the Ethereum state.  It is an IT protocol that simplifies transfers of digital assets between parties in compliance with agreed terms or conditions by defining rules and sanctions around the agreement. It is similar to a traditional contract in most cases, except that it can also automatically enforce the agreed obligations. With Blockchain technology, intelligent contracts are increasingly used.
   
   - Buidler (replacement for Truffle) - Bills itself as a "task runner for Ethereum smart contract developers". In practice, this means that the tool will help you bootstrap your Solidity project with a template and give you all the scaffolding needed to test out your smart contracts and ultimately deploy onto the Ethereum blockchain.
   
