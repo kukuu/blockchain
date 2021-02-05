@@ -53,4 +53,6 @@ https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-curren
 - anonymity- each blockchain network participant has a generated address, not user identity. This keeps users' anonymity, especially in a public blockchain structure
 
 - transparency - the blockchain system cannot be corrupted. This is very unlikely to happen, as it requires huge computing power to overwrite the blockchain network completely
+
+- oraclize  - provides a way to get outside data from any web API onto the blockchain. To use it, you'll use Oraclize's smart contracts to send a query to Oraclize with your API call. Once they get a result from the API, they call a function named __callback in your smart contract and pass it the result as an input
   
