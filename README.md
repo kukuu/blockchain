@@ -1,4 +1,6 @@
-# Blockchain
+# White Papers
+
+## Blockchain
 
 Crypto Currency and decentralised networking.
 
@@ -8,15 +10,11 @@ Its network lacks centralized points of vulnerability that computer hackers can 
 
 With Blockchain, users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
 
-## White Paper
+## White Papers
 
 - https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf
 
-- https://www.notion.so/Digital-Retailing-Platform-for-Purchasing-Rail-Tickets-8e758a67a5a1429d890ced13ba362069 
-
-- https://miro.com/app/board/o9J_lbedUzY=/
-
-## Keywords
+### Keywords
   
    - bit coin - It is the first cryptocurrency, and a decentralized form of digital cash that eliminates the need for traditional intermediaries like banks and governments to make financial transactions. Is basically a computer file which is stored in a 'digital wallet' app on a smartphone or computer.
   
@@ -60,3 +58,7 @@ With Blockchain, users to the network have private keys and the network stores p
 
 - oraclize  - provides a way to get outside data from any web API onto the blockchain. To use it, you'll use Oraclize's smart contracts to send a query to Oraclize with your API call. Once they get a result from the API, they call a function named __callback in your smart contract and pass it the result as an input
   
+## Online Ticketing
+- https://www.notion.so/Digital-Retailing-Platform-for-Purchasing-Rail-Tickets-8e758a67a5a1429d890ced13ba362069 
+
+- https://miro.com/app/board/o9J_lbedUzY=/
