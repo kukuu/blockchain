@@ -55,7 +55,9 @@ With Blockchain, users to the network have private keys and the network stores p
 
 - Transparency - the blockchain system cannot be corrupted. This is very unlikely to happen, as it requires huge computing power to overwrite the blockchain network completely
 
-- Oraclize  - provides a way to get outside data from any web API onto the blockchain. To use it, you'll use Oraclize's smart contracts to send a query to Oraclize with your API call. Once they get a result from the API, they call a function named __callback in your smart contract and pass it the result as an input
+- Oraclize  - provides a way to get outside data from any web API onto the blockchain. To use it, you'll use Oraclize's smart contracts to send a query to Oraclize with your API call. Once they get a result from the API, they call a function named __callback in your smart contract and pass it the result as an input.
+
+- ABI (Application Binary Interface) - The interface is the de facto method for encoding/decoding data into/out of the machine code. In Ethereum, it's basically how you can encode Solidity contract calls for the EVM and, backwards, how to read the data out of transactions.
   
 ## Online Ticketing
 - https://www.notion.so/Digital-Retailing-Platform-for-Purchasing-Rail-Tickets-8e758a67a5a1429d890ced13ba362069 
