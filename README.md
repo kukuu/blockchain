@@ -10,7 +10,11 @@ With Blockchain, users to the network have private keys and the network stores p
 
 ## White Paper
 
-https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf
+- https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf
+
+- https://www.notion.so/Digital-Retailing-Platform-for-Purchasing-Rail-Tickets-8e758a67a5a1429d890ced13ba362069 
+
+- https://miro.com/app/board/o9J_lbedUzY=/
 
 ## Keywords
   
