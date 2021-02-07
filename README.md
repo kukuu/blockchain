@@ -59,7 +59,9 @@ With Blockchain, users to the network have private keys and the network stores p
 
 - ABI (Application Binary Interface) - The interface is the de facto method for encoding/decoding data into/out of the machine code. In Ethereum, it's basically how you can encode Solidity contract calls for the EVM and, backwards, how to read the data out of transactions.
 
-- Compiled Contract -  The contract converted to byte-code to run on the Ethereum Virtual Machine (EVM), adhering to the specification. The function names and input parameters are hashed during compilation. Therefore, for another account to call a function, it must first be given the funtion name and arguments - hence the ABI:
+- Compiled Contract -  The contract converted to byte-code to run on the Ethereum Virtual Machine (EVM), adhering to the specification. The function names and input parameters are hashed during compilation. Therefore, for another account to call a function, it must first be given the funtion name and arguments - hence the ABI.
+
+- EVM is essential to the Ethereum Protocol and is instrumental to the consensus engine of the Ethereum system. It allows anyone to execute code in a trustless ecosystem in which the outcome of an execution can be guaranteed and is fully deterministic (i.e.) executing smart contracts.
   
 ## Online Ticketing
 - https://www.notion.so/Digital-Retailing-Platform-for-Purchasing-Rail-Tickets-8e758a67a5a1429d890ced13ba362069 
