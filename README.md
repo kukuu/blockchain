@@ -10,7 +10,6 @@ Its network lacks centralized points of vulnerability that computer hackers can 
 
 With Blockchain, users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
 
-## White Papers
 
 - https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf
 
