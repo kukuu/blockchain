@@ -11,7 +11,7 @@ Its network lacks centralized points of vulnerability that computer hackers can 
 With Blockchain, users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
 
 
-- https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf
+- https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf © 
 
 #### Keywords
   
@@ -63,7 +63,7 @@ With Blockchain, users to the network have private keys and the network stores p
 
 - EVM is essential to the Ethereum Protocol and is instrumental to the consensus engine of the Ethereum system. It allows anyone to execute code in a trustless ecosystem in which the outcome of an execution can be guaranteed and is fully deterministic (i.e.) executing smart contracts.
   
-## Online Ticketing
+## Online Ticketing© 
 - https://www.notion.so/Digital-Retailing-Platform-for-Purchasing-Rail-Tickets-8e758a67a5a1429d890ced13ba362069 
 
 - https://miro.com/app/board/o9J_lbedUzY=/
