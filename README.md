@@ -69,6 +69,6 @@ With Blockchain, users to the network have private keys and the network stores p
 - https://miro.com/app/board/o9J_lbedUzY=/
 
 
-## Technopedia
+## Technopedia© 
 
 - https://github.com/kukuu/Technopedia
