@@ -70,9 +70,9 @@ With Blockchain, users to the network have private keys and the network stores p
 
  2. Ethereum (ETH)
 
- 3. Ripple (XRP) ...
+ 3. Ripple (XRP)
 
- 4. EOS (EOS) ...
+ 4. EOS (EOS)
  
  5. Bitcoin Cash (BCH)
  
