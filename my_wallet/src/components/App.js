@@ -18,7 +18,7 @@ class App extends Component {
                     "constant":false,
                     "inputs": [
                       {
-                          "name": "spender",
+                          "name": "spenders",
                           "type": "address"
                       },
                       {
