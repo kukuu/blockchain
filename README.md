@@ -60,7 +60,7 @@ With Blockchain, users to the network have private keys and the network stores p
 
 - Compiled Contract -  The contract converted to byte-code to run on the Ethereum Virtual Machine (EVM), adhering to the specification. The function names and input parameters are hashed during compilation. Therefore, for another account to call a function, it must first be given the funtion name and arguments - hence the ABI.
 
-- EVM is essential to the Ethereum Protocol and is instrumental to the consensus engine of the Ethereum system. It allows anyone to execute code in a trustless ecosystem in which the outcome of an execution can be guaranteed and is fully deterministic (i.e.) executing smart contracts.
+- EVM is essential to the Ethereum Protocol and is instrumental to the consensus engine of the Ethereum system. It allows anyone to execute code in a trustless ecosystem in which the outcome of an execution can be guaranteed and is fully deterministic (i.e) executing smart contracts.
 
 - ASP - It is the membership token of the AirSwap decentralized exchange. The AirSwap (ASP) Token provides the right to signal your intention to trade one cryptocurrency. AirSwap combines on-chain and off-chain networks to create a secure and stable environment for trading and financial payments.
 
