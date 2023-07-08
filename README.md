@@ -8,6 +8,21 @@ Its network lacks centralized points of vulnerability that computer hackers can 
 
 With Blockchain, users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
 
+#### Vulnerabilitis
+
+1. Broken Access Controls
+2. Insecure Designs
+3. Cryptographic Filures
+4. Misconfigurations
+5. Cross Site Scripting
+6. Cross Site Request Fogery
+7. SQL Injection Attacks
+8. DOS Attacks
+9. DDOS Attacks
+10. Sofial Engineering
+11. Phishing
+
+
 #### Crypto Currency and decentralised networking
 
 - https://github.com/Azoto-Media/business-document/blob/main/AZZOTTO/crypto-currency-white-paper/white-paper-crypto-currency.pdf © 
