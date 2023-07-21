@@ -1,6 +1,6 @@
 
 
-# Open Banking API implementation
+# Open Banking API 
 
 ## Scenario:
  A third-party financial app wants to access a user's account information from a bank securely. 
@@ -53,3 +53,5 @@ The API will provide meaningful error responses, including proper HTTP status co
 #### Monitoring and Logging:
 
 Monitoring and Logging will be set up to track API usage, performance, and potential issues.
+
+## Implementation
