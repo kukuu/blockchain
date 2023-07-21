@@ -79,3 +79,7 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 - Compliance with Regulations: Open Banking APIs ensure compliance with regulatory requirements, such as the Second Payment Services Directive (PSD2) in the European Union. This enhances customer trust and protects against potential data breaches.
 
 ## Implementation
+
+- JS implementation:
+
+- Postman implementation
