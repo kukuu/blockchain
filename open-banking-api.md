@@ -80,6 +80,6 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 
 ## Implementation
 
+- Technologies: https://github.com/users/kukuu/projects/2?pane=issue&itemId=32788981
 - JS implementation:
-
 - Postman implementation
