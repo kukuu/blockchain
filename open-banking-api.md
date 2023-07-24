@@ -60,22 +60,19 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 ## Implementation
 
 - Technologies: https://github.com/users/kukuu/projects/2?pane=issue&itemId=32788981
-- JS implementation:
+ _Platform_: Node
 
-  _Sandbox_:
+  _Framework_: JavaScript
 
-  https://github.com/kukuu/blockchain/blob/main/sandbox-enable-open-api-banking.png
+  _Sandbox_: https://github.com/kukuu/blockchain/blob/main/sandbox-enable-open-api-banking.png
 
   _Architecture_: https://enablebanking.com/docs/api/reference/#account-information-flow
 
   _Code Repository_:
 
-  _ Deriving  url to generate session code for authentication_:
+  _ Deriving  url to generate session code for authentication_: https://github.com/kukuu/blockchain/blob/main/deriving-session-code-to-client.png
 
-  https://github.com/kukuu/blockchain/blob/main/deriving-session-code-to-client.png
-
-  - _Video:_
-  https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
+  - _Video execution :_ https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
   
 ## Benefits
 
