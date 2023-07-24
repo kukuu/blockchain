@@ -19,7 +19,7 @@ const main = async function () {
     headers: baseHeaders,
   });
 
-  //   Display list of ASPSPs to the PSU and let him choose one. For the sake of simplicity we will use the first one.
+  //   Display list of ASPSPs (region) to the PSU(payment service user) and let him choose one. For the sake of simplicity we will use the first one.
   console.log(`Application data: ${await applicationResponse.text()}`);
 
   const aspspsResponse = await fetch(`${BASE_URL}/aspsps`, {
