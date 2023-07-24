@@ -72,8 +72,10 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 
   _Config_: https://github.com/kukuu/blockchain/blob/main/enable-banking-main/config.json
 
-  _ Deriving  url to generate session code for authentication_: https://github.com/kukuu/blockchain/blob/main/deriving-session-code-to-client.png
+  _Deriving  url to generate session code for authentication_: https://github.com/kukuu/blockchain/blob/main/deriving-session-code-to-client.png
 
+  _Session Access Code_: https://github.com/kukuu/blockchain/blob/main/enable-banking-session-access-code.png
+  
   - _Video execution :_ https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
   
 ## Benefits
