@@ -82,4 +82,13 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 
 - Technologies: https://github.com/users/kukuu/projects/2?pane=issue&itemId=32788981
 - JS implementation:
+
+  _Architecture_: https://enablebanking.com/docs/api/reference/#account-information-flow
 - Postman implementation
+
+- Implementation Code:
+
+  
+- _Video:_
+ https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
+  
