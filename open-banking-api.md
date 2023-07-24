@@ -48,7 +48,7 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 
 - _Platform_: Node
  
-- _Framework_: JavaScript
+- _Framework_: OPEN API Banking, JavaScript
 
 - _Sandbox_: https://github.com/kukuu/blockchain/blob/main/sandbox-enable-open-api-banking.png
 
