@@ -28,21 +28,6 @@ During the OAuth flow, the third-party app requests specific scopes based on the
 Access token is included in the API requests' Authorization header, ensuring secure data transmission.
 Access tokens will have a limited lifespan, and the API will provide a refresh token to obtain a new access token when it expires.
 
-#### Data Encryption and Security:
-
-All sensitive data transmitted between the third-party app and the API will be encrypted using HTTPS.
-The API will implement strong security measures to protect against common attacks. Including:
-
-- Broken Access control
-- Cryptographic failure
-- Insecure design
-- SQL Injection Attacks
-- DOS Attack
-- DDOS Attack
-- Authentication and Authorisation failures
-- Cross Site Scripting
-- Malware and Phishing.
-
 #### API Rate Limiting and Throttling:
 
 Rate Limiting and throttling mechanisms will be implemented to prevent abuse and ensure fair usage of the API.
@@ -78,6 +63,21 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
   
   - _Video execution :_ https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
   
+#### Data Encryption and Security:
+
+All sensitive data transmitted between the third-party app and the API will be encrypted using HTTPS.
+The API will implement strong security measures to protect against common attacks. Including:
+
+- Broken Access control
+- Cryptographic failure
+- Insecure design
+- SQL Injection Attacks
+- DOS Attack
+- DDOS Attack
+- Authentication and Authorisation failures
+- Cross Site Scripting
+- Malware and Phishing.
+
 ## Benefits
 
 - Enhanced Customer Experience: Open Banking APIs enable seamless and secure data sharing between financial institutions and third-party providers. This fosters competition and innovation, leading to the development of new financial products and services that better cater to customer needs.
