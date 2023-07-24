@@ -91,6 +91,10 @@ Monitoring and Logging will be set up to track API usage, performance, and poten
 
   _Code Repository_:
 
-- _Video:_
- https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
+  _ Deriving  url to generate session code for authentication_:
+
+  https://github.com/kukuu/blockchain/blob/main/deriving-session-code-to-client.png
+
+  - _Video:_
+  https://drive.google.com/file/d/1YeyVAyfDnAKs5UcxyDB0ru_D_4y3ST0j/view
   
