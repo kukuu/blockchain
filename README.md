@@ -8,7 +8,7 @@ Its network lacks centralized points of vulnerability that computer hackers can 
 
 With Blockchain, users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
 
-#### Vulnerabilitis
+#### Vulnerabilities
 
 1. Broken Access Controls
 2. Insecure Designs
